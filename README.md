@@ -1,0 +1,1 @@
+# Detalhes-user-typescript
